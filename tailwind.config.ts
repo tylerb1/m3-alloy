@@ -8,10 +8,13 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        primary: {
+          100: "#C5D8F8", // Keep It Cool
+          900: "#09063B", // Indigo
+        },
+        secondary: "#F6460B", // Fire
+        'spacegray': "#252421" // Added from Figma
       },
     },
   },
