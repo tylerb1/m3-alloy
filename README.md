@@ -2,6 +2,18 @@ This is a landing page introducing M3, a new product from Alloy.
 
 ## To run
 
+Clone the repo:
+
+```bash
+git clone https://github.com/tylerb1/m3-alloy.git
+```
+
+Install dependencies:
+
+```
+npm i
+```
+
 To run the development server:
 
 ```bash
