@@ -8,7 +8,7 @@ To run the development server:
 npm run dev
 ```
 
-To run an optimizing production version:
+To run an optimized production version:
 
 ```bash
 npm run build
@@ -16,3 +16,9 @@ npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to see the result.
+
+To run the linter:
+
+```bash
+npm run lint
+```
